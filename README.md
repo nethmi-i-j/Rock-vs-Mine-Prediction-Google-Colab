@@ -10,7 +10,7 @@ This project focuses on predicting whether an underwater object is a rock or a m
 
 * Dataset: Sonar Dataset from kagle
 * Features: 60 numerical sonar signal attributes
-* Number of columns: 208
+* Number of rows: 208
 * Target:
 
      R ---> Rock
